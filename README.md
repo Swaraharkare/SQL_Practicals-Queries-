@@ -8,9 +8,9 @@ Welcome to my SQL practice hub! This repository is a curated collection of SQL s
 
 | Category | Description |
 | :--- | :--- |
-| 🏗️ **01-Foundations** | Table creation (DDL), Data manipulation (DML), and Constraints. |
+| 🏗️ **01-Foundations** | Table creation (DDL), Data manipulation (DML), Data Query(DQL) and Constraints. |
 | 🔗 **02-Joins-Subqueries** | Inner, Outer, Cross Joins, and Correlated Subqueries. |
-| 🔢 **03-Aggregations** | Grouping data using `GROUP BY`, `HAVING`, and aggregate functions. |
+| 🔢 **03-Aggregations** | Grouping data using `GROUP BY`, `HAVING`, aggregate functions, numeric functions and string function. |
 | 🖼️ **04-Views-Indexing** | Creating Virtual Tables (Views) and optimizing with Indexes. |
 | ⚡ **05-Advanced-TSQL** | CTEs (Common Table Expressions) and Window Functions (`RANK`, `LEAD/LAG`). |
 | ⚙️ **06-Programmability** | Stored Procedures, UDFs (Functions), and Triggers. |
